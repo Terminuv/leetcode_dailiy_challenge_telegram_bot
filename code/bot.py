@@ -4,6 +4,7 @@ import time
 
 def main():
 
+	token = "Replace with the bot's token"
 	chat_id = 'Replace with the ID of the chat where you want the message to be sent'
 
 	last_exec = 1672383600
